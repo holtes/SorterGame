@@ -1,0 +1,16 @@
+{
+    "name": "_Project.Data",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c6b1391fad1d58b4691c421305e5bd36"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
